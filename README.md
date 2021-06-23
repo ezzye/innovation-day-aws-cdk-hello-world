@@ -16,3 +16,11 @@ It is a [Maven](https://maven.apache.org/) based project, so you can open this p
  * `cdk docs`        open CDK documentation
 
 Enjoy!
+
+See https://docs.aws.amazon.com/cdk/latest/guide/constructs.html
+https://docs.aws.amazon.com/cdk/latest/guide/hello_world.html
+https://docs.aws.amazon.com/cdk/latest/guide/stacks.html
+https://docs.aws.amazon.com/cdk/latest/guide/apps.html
+https://github.com/aws-samples/aws-cdk-examples
+https://github.com/awsdocs/aws-doc-sdk-examples
+https://github.com/aws/aws-sdk-java/blob/master/src/samples/AwsCloudFormation/CloudFormationSample.java
